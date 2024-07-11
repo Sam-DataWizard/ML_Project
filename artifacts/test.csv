@@ -1,0 +1,63 @@
+id,name,nationality,city,latitude,longitude,gender,ethnic.group,age,english.grade,math.grade,sciences.grade,language.grade,portfolio.rating,coverletter.rating,refletter.rating
+183,Isabella Martinez,Colombia,Bogotá,4.65,-74.06,F,,23,2.6,4.0,2.7,4.0,3,4.0,3
+60,Katelyn Sharp,United States of America,Los Angeles,34.05,-118.24,F,,20,3.9,3.7,2.8,5.0,5,3.0,5
+124,Austin Harline,United States of America,Las Vegas,36.17,-115.14,M,,21,2.8,3.8,3.8,5.0,5,5.0,4
+93,Hailey Malle,Russian Federation,Nizhniy Novgorod,56.33,44.01,F,,22,3.7,2.5,3.2,2.0,3,3.0,5
+63,Macaela Kadillak,United States of America,Los Angeles,34.05,-118.24,F,,20,2.7,3.3,3.3,5.0,4,1.0,4
+9,Maa'iz al-Dia,Turkey,Istanbul,41.02,28.96,M,,22,2.4,2.8,3.8,3.0,5,5.0,4
+147,Siena Ingram,United States of America,Henderson,36.04,-114.98,F,,21,3.8,3.7,3.8,5.0,5,3.0,5
+158,Colleen Kohout,United States of America,Philadelphia,39.95,-75.16,F,,22,3.5,3.8,3.1,5.0,4,4.0,4
+168,Chelsea Persky,United States of America,San Bernardino,34.11,-117.29,F,,23,3.9,3.4,4.0,5.0,3,3.0,4
+33,Sean Rozga,United States of America,Los Angeles,34.05,-118.24,M,,21,3.4,3.8,3.6,5.0,4,5.0,4
+5,Rochelle Johnson,United States of America,Indianapolis,39.77,-86.16,F,,21,3.4,3.1,3.7,5.0,2,4.0,4
+144,Tanner Jones,United States of America,Stockton,37.96,-121.29,M,,23,3.9,3.7,3.7,5.0,4,5.0,5
+45,Britany Stevens,United States of America,Lafayette,37.89,-122.12,F,,23,3.6,3.3,3.5,5.0,3,3.0,3
+179,Baylen Cloutier,United States of America,Phoenix,33.45,-112.07,M,,22,3.9,3.4,3.7,5.0,3,5.0,3
+304,Zachary Mulvahill,United States of America,Los Angeles,34.05,-118.24,M,,20,3.2,3.4,3.9,5.0,5,5.0,3
+46,Alan Trinh,Japan,Tokyo,35.69,139.75,M,,20,2.8,3.1,3.8,4.0,3,4.0,5
+245,Matthew Strasburger,United States of America,Los Angeles,34.05,-118.24,M,,21,3.9,3.9,2.9,5.0,4,4.0,4
+299,Christopher Inhulsen,United States of America,Fort Worth,32.73,-97.32,M,,23,3.1,3.3,2.9,5.0,2,4.0,4
+213,Adolf Malik,Korea (Republic of),Seoul,37.6,126.98,M,,21,3.1,3.5,3.6,3.0,4,4.0,3
+195,Joshua Mesan,United States of America,San Jose,37.34,-121.89,M,,24,4.0,3.8,3.7,5.0,5,4.0,5
+154,Kaitlin Krueger,United States of America,Los Angeles,34.05,-118.24,F,,24,3.7,3.9,4.0,5.0,4,5.0,4
+273,Matthew Sputh,United States of America,Modesto,37.64,-121.0,M,,22,3.2,2.6,4.0,5.0,3,3.0,5
+250,Abigail Orgeron,United States of America,Prior Lake,44.71,-93.42,F,,23,3.2,3.0,3.8,5.0,5,5.0,4
+25,Samantha Hicks,United States of America,Santa Barbara,34.42,-119.7,F,,22,3.7,3.7,3.8,5.0,3,4.0,4
+148,Alondra Gardea Corral,Mexico,Ensenada,31.87,-116.62,F,,20,2.2,3.8,3.1,2.0,3,4.0,2
+163,Christopher Jacobo,United States of America,Los Angeles,34.05,-118.24,M,,21,3.4,2.7,3.9,5.0,4,4.0,3
+3,Natasha Yarusso,United States of America,Castro Valley,37.69,-122.09,F,,20,3.3,2.8,3.2,5.0,5,2.0,4
+104,Callahan Foster,Canada,Toronto,43.67,-79.42,other,,22,3.2,3.0,3.9,5.0,3,3.0,5
+111,Lucille Mitchell,Canada,Edmonton,53.55,-113.5,F,,22,3.5,3.6,2.6,5.0,5,4.0,4
+126,Alexandra Graham,United States of America,Los Angeles,34.05,-118.24,F,,22,3.4,3.5,2.8,5.0,4,3.0,5
+232,Anna Yoshimura,China,Rizhao,35.39,119.55,F,,20,3.5,3.8,3.9,4.0,5,5.0,2
+288,Weldon Hightower,United States of America,New York,40.71,-74.01,M,,20,2.6,2.1,3.2,5.0,4,5.0,5
+84,Harper Wheeler-Marques,United States of America,San Diego,32.72,-117.16,F,,23,3.9,2.4,3.9,5.0,5,4.0,2
+42,Jesse Williams,Russian Federation,Moscow,55.75,37.62,F,,21,3.9,3.4,2.6,4.0,4,4.0,5
+17,Ericka Arreola,Mexico,Mexico,19.43,-99.14,other,,23,3.1,3.5,2.8,4.0,4,3.0,4
+196,Dylan Bell,United States of America,Tucson,32.22,-110.93,M,,20,3.3,3.8,3.5,5.0,5,4.0,4
+77,Ibrahim al-Sawaya,Tunisia,Manzil Tamim,36.78,10.99,M,,23,3.5,3.1,4.0,4.0,5,3.0,3
+238,Haley Ingrim-Hyrup,United States of America,Fontana,34.09,-117.43,F,,22,3.2,3.6,2.6,5.0,2,4.0,3
+24,Sila Nguyen,China,Hebi,35.9,114.19,M,,23,2.8,3.5,3.5,4.0,5,4.0,4
+57,Amanda Tatum,United States of America,San Diego,32.72,-117.16,F,,22,3.5,2.3,3.7,5.0,4,5.0,4
+73,Aurelia Davis Ingham,United States of America,Roseville,38.75,-121.29,F,,22,3.8,2.2,3.7,5.0,4,5.0,5
+78,Alexandra Levy,United States of America,Los Angeles,34.05,-118.24,F,,23,3.1,2.5,3.7,5.0,4,3.0,5
+101,Mamdooh el-Moustafa,Pakistan,Karachi,24.91,67.08,M,,22,3.3,2.8,3.9,4.0,4,4.0,4
+119,Megan Salamena,United States of America,Los Angeles,34.05,-118.24,F,,23,3.9,3.9,3.1,5.0,4,4.0,5
+7,Preston Suarez,Brazil,São Paulo,-23.47,-46.67,M,,22,3.8,3.7,3.6,2.0,5,5.0,4
+75,Joseph Snider,United States of America,Los Angeles,34.05,-118.24,M,,21,3.2,2.6,3.0,5.0,5,4.0,5
+285,Viridiana Ballesteros,Brazil,Alfenas,-21.43,-45.95,F,,22,2.8,3.5,3.9,4.0,4,5.0,5
+90,Bradley Monsell,United States of America,New York,40.71,-74.01,M,,22,3.0,3.9,3.1,5.0,5,2.0,4
+118,Magdalynne Noah,United States of America,New York,40.71,-74.01,F,,22,3.2,3.8,3.8,5.0,3,4.0,4
+82,Staci Maes,Mexico,Mexico,19.43,-99.14,F,,23,3.4,2.6,3.9,2.0,5,3.0,5
+237,Veronica Tounzen,Mexico,Tijuana,32.53,-117.02,F,,21,3.8,3.5,3.5,4.0,4,4.0,5
+296,Brittany Fernandez,Mexico,Zamora,19.98,-102.27,F,,23,3.9,3.7,2.9,4.0,3,4.0,4
+226,Abigail Gallegos,Brazil,Belém,-1.45,-48.48,F,,24,3.4,3.0,2.1,4.0,3,3.0,4
+155,Jaime Mikesell,United States of America,Los Angeles,34.05,-118.24,F,,20,3.9,3.7,3.7,5.0,4,5.0,4
+194,Chue Fue Richter,China,Qiqihar,47.34,123.97,M,,23,3.0,3.6,1.4,4.0,5,3.0,4
+209,Makenzie Swann,United States of America,Stockton,37.96,-121.29,F,,22,3.4,2.8,3.1,5.0,5,5.0,4
+223,Dasha Bannock Lee,United States of America,San Diego,32.72,-117.16,other,,20,2.8,3.3,4.0,5.0,4,3.0,2
+258,Logan Nighswonger,United States of America,Los Angeles,34.05,-118.24,M,,21,2.7,4.0,3.9,5.0,4,3.0,5
+222,Jake Seime,United States of America,Reno,39.53,-119.81,M,,22,2.4,3.9,3.7,5.0,4,4.0,5
+157,Maryn Manzanares,United States of America,Laguna Hills,33.61,-117.71,F,,21,3.9,3.2,3.2,5.0,2,4.0,4
+198,Sabaaha al-Latif,India,Bangalore,12.98,77.58,F,,22,3.7,2.7,3.0,3.0,5,3.0,5
+302,Austin Haas,United States of America,Columbus,39.96,-83.0,M,,20,3.6,3.7,3.1,5.0,4,5.0,5
